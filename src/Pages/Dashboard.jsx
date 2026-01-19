@@ -1,4 +1,4 @@
-import MainLayout from "../Components/Layout/MainLayout";
+import MainLayout from "../Components/Layout/Mainlayout";
 
 import StatCard from "../Components/Cards/StatCard";
 import RevenueChart from "../Components/Charts/RevenueChart";
